@@ -1,0 +1,31 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Migrate==4.0.5
+Flask-Login==0.6.2
+Flask-Mail==0.9.1
+Flask-WTF==1.1.1
+WTForms==3.0.1
+email-validator==2.0.0
+Werkzeug==2.3.7
+SQLAlchemy==2.0.21
+
+# Machine Learning
+TensorFlow==2.13.0
+Keras==2.13.1
+numpy==1.24.3
+Pillow==10.0.0
+opencv-python==4.8.1.78
+
+# Utilities
+python-dotenv==1.0.0
+gunicorn==21.2.0
+requests==2.31.0
+
+# Development
+pytest==7.4.2
+pytest-cov==4.1.0
+black==23.9.1
+flake8==6.1.0
+
+# AWS (Optional)
+boto3==1.28.41
